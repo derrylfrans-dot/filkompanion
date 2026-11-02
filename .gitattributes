@@ -1,0 +1,5 @@
+# Berkas biner: jangan konversi akhir baris
+*.pdf binary
+*.jpg binary
+*.jpeg binary
+*.png binary
